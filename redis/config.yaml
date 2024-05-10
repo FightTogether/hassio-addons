@@ -1,0 +1,16 @@
+name: Redis
+description: The in-memory data store used by millions of developers as a cache, vector database, document database, streaming engine, and message broker.
+url: https://redis.io/
+image: redis
+ports:
+  '6379': 6379
+arch:
+  - aarch64
+  - amd64
+  - armv7
+version: latest
+slug: redis
+init: true
+boot: auto
+startup: application
+

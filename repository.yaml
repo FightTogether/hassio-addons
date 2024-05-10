@@ -1,0 +1,4 @@
+name: 'Add-ons by Desmond'
+udev: true
+url: 'https://gitea.why360.cn/wenghy/hassio-addons'
+maintainer: Desmond
